@@ -1,0 +1,22 @@
+{
+  "name": "gadilasr-nodeexample",
+  "version": "1.1.1",
+  "description": "A Hello World HTTP server",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gadilasr/myfirstansible/"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "srg@srgtkpr.co",
+  "license": "SRG",
+  "devDependencies": { "test": ">=0.6.0" }
+}
